@@ -1,0 +1,31 @@
+body {
+  text-rendering: optimizeLegibility;
+}
+
+.content {
+  font-family: Georgia, Cambria, "Times New Roman", Times, serif;
+  font-size: 1.2rem;
+}
+
+  .content p a {
+    color: #212529;
+    text-decoration: underline;
+  }
+
+  .content p a:hover {
+    color: #212529;
+  }
+
+code {
+  color: rgb(88, 110, 117);
+}
+
+footer {
+  padding-bottom: 20px;
+  padding-top: 10px;
+}
+
+  footer #footer-info {
+    padding-top: 10px;
+    border-top: 1px solid #EEE;
+  }
